@@ -1,5 +1,5 @@
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={yonsei_coleen})](https://solved.ac/{yonsei_coleen})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yonsei_coleen)](https://solved.ac/yonsei_coleen)
 <!--
 **Kwak-MJ/Kwak-MJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
